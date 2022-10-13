@@ -283,7 +283,7 @@
 	.snowlord-devConsole-container {
 		box-shaddow: 0 2px 30px 0 rgba(0, 0, 60, 0.045), 0px 1px 3px 0 rgba(0, 0, 80, 0.03);
 		animation: 1s ease-out 0s 1 slideUp;
-		background-color: #f9f9f9;
+		background-color: #333;
 		z-index: 9999999999999999;
 		vertical-align: baseline;
 		flex-direction: column;
